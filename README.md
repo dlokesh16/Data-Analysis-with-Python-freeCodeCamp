@@ -1,2 +1,3 @@
 # FreeCodeCamp-Data-Analysis-with-Python-Certification-300-hours
-https://www.freecodecamp.org/learn
+FreeCodeCamp presents Data Analysis with Python Certification with around 300 hours of online self-paced tutorials.
+<br>https://www.freecodecamp.org/learn
