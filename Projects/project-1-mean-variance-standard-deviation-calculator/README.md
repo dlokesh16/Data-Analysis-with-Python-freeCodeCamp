@@ -1,4 +1,4 @@
-### Repl link -> [repl!](https://repl.it/@dlokesh16/project-1-mean-variance-standard-deviation-calculator)
+## Repl link -> [repl!](https://repl.it/@dlokesh16/project-1-mean-variance-standard-deviation-calculator)
 
 ### Assignment
 
